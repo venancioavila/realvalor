@@ -1,6 +1,6 @@
 {
   "name": "realvalor",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "main": "src/index.js",
   "dependencies": {
     "axios": "^0.20.0",
