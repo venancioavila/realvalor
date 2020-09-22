@@ -1,7 +1,8 @@
 {
   "name": "realvalor",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "main": "src/index.js",
+  "license": "MIT",
   "dependencies": {
     "axios": "^0.20.0",
     "cheerio": "^1.0.0-rc.3"
